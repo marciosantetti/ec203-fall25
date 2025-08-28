@@ -1,0 +1,72 @@
+---
+title: "Expectations"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+
+  
+  
+  
+## Expectations
+
+
+. . .
+
+<br><br>
+
+
+- [Hard]{.note} times
+
+. . .
+
+- [Principles]{.note} through current events
+
+. . .
+
+
+- Goal: Good [Thanksgiving]{.note} conversations
+
+
+# For next week
+
+
+
+## For next week
+
+<br>
+
+
+[Three]{.note} things:
+
+
+
+. . .
+
+
+<br>
+
+- Complete [Quiz 00: Syllabus]{.note} on Canvas
+
+. . .
+
+
+- [Listen]{.note} to [[this podcast episode by the Financial Times (FT)]{.link}](https://www.ft.com/content/fa3d43c4-fa26-4fe6-9a4b-603b09bfbcd8)
+
+. . .
+
+
+- Bring [assorted stuff]{.note} to our class on Monday (09/08)
+
+  - Pen, legal pad, book, candy, ...
+
+
+# Next time: Why people trade {background-color="#62259D"}
