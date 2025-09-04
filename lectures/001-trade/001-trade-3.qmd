@@ -1,0 +1,184 @@
+---
+title: "Why countries trade (II)"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Protectionism in context {background-color="#62259D"}
+
+
+
+
+## Protectionism in context
+
+<br>
+
+
+There are basically [three arguments]{.hi-purple} in support of using [tariffs]{.note} as a trade barrier:
+
+<br>
+
+. . .
+
+1. The [infant industry]{.hi} argument;
+
+2. The [anti-dumping]{.hi-pink} argument;
+
+3. The [environmental protection]{.hi-green} argument.
+
+
+## Protectionism in context
+
+<br>
+
+
+[[1]]{.note}:  The [infant industry]{.hi} argument:
+
+. . .
+
+<br>
+
+
+- [Block]{.note} imports for a limited time;
+
+- Establish a [mature]{.note} industry;
+
+- Relax restrictions and [compete]{.note} internationally.
+
+
+## Protectionism in context
+
+
+
+
+[[1]]{.note}:  The [infant industry]{.hi} argument:
+
+[Maybe list a section (intro) for students?]
+
+
+![](infant.png){fig-align="center" width="550" height="500"}
+
+
+## Protectionism in context
+
+<br>
+
+
+[[1]]{.note}:  The [infant industry]{.hi} argument:
+
+
+<br>
+
+
+- [How]{.note} to do?
+
+
+
+
+## Protectionism in context
+
+<br>
+
+
+[[2]]{.note}:  The [anti-dumping]{.hi-pink} argument:
+
+. . .
+
+
+<br>
+
+
+- What does [dumping]{.note} mean?
+
+. . .
+
+- How do tariffs [correct]{.note} for dumping?
+
+. . .
+
+- [Predatory pricing]{.note} strategies.
+
+
+## Protectionism in context
+
+<br>
+
+
+[[2]]{.note}:  The [anti-dumping]{.hi-pink} argument:
+
+<br><br>
+
+[[An example]{.link}](https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds184_e.htm)
+
+
+## Protectionism in context
+
+<br>
+
+
+[[3]]{.note}:  The [environmental protection]{.hi-green} argument:
+
+. . .
+
+<br><br>
+
+
+- [Strict]{.note} vs. [lax]{.note} environmental regulations.
+
+. . .
+
+
+- [[A recent example]{.link}](https://www.congress.gov/bill/119th-congress/senate-bill/1325/text)
+
+
+
+# The current tariff context {background-color="#62259D"}
+
+
+## The current tariff context
+
+<br><br><br>
+
+
+[[Tracking Trump’s tariffs and other trade actions (Brookings Institute)]{.link}](https://www.brookings.edu/articles/tracking-trumps-tariffs-and-other-trade-actions/)
+
+
+
+## The current tariff context
+
+
+
+<br><br>
+
+
+![](china-1.png){fig-align="center" width="550" height="300"}
+
+
+## The current tariff context
+
+
+
+<br><br>
+
+![](china-2.png){fig-align="center" width="700" height="300"}
+
+
+## The current tariff context
+
+
+
+<br>
+
+
+![](china-84.png){fig-align="center" width="750" height="500"}
+
+
+# Next time: ??? {background-color="#62259D"}

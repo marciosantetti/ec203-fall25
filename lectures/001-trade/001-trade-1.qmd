@@ -1,0 +1,85 @@
+---
+title: "Why people trade"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# An experiment {background-color="#62259D"}
+  
+  
+  
+## An experiment &mdash; Round 1
+
+
+<br>
+
+- Have your items with you.
+
+
+- Half to the [right]{.note}, half to the [left]{.note} side of the classroom.
+
+
+- You are not allowed to talk to people from the "other side."
+
+
+- You will have **10 minutes** to talk to each other, ask questions, and trade items.
+
+
+
+
+## An experiment &mdash; Round 2
+
+
+<br><br>
+
+- You are **no longer divided** in two sides.
+
+- You are allowed to talk/trade with everyone in the room.
+
+
+
+
+# Why people trade {background-color="#62259D"}
+
+
+## Why people trade
+
+
+<br>
+
+[Trade]{.note} is the exchange of goods and services.
+
+
+. . .
+
+<br>
+
+- [Winning]{.note} vs [losing]{.note}
+
+. . .
+
+- [Costs]{.note} vs [benefits]{.note}
+
+. . .
+
+<br>
+
+- The (main) role of [money]{.note}
+
+  - Solves the [double coincidence of wants]{.note} problem.
+
+
+
+
+
+
+
+# Next time: Why countries trade {background-color="#62259D"}

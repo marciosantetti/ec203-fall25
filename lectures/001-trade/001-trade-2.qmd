@@ -1,0 +1,272 @@
+---
+title: "Why countries trade (I)"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Advantages {background-color="#62259D"}
+
+
+## Advantages
+
+<br>
+
+
+[Q: Why do countries trade?]{.note}
+
+
+## Advantages
+
+<br><br><br>
+
+[[Coffee consumption by country]{.link}](https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country)
+
+
+##
+
+
+
+
+
+![Source: [Sprudge](https://sprudge.com/coffee-basics-does-coffee-grow-in-the-united-states-179225.html)](coffee.jpg){fig-align="center" width="900" height="600"}
+
+
+## Advantages
+
+<br>
+
+
+[Q: Why do countries trade?]{.note}
+
+
+. . .
+
+
+
+<br>
+
+
+Two [fundamental]{.hi-slate} concepts:
+
+<br>
+
+
+. . .
+
+- [Absolute]{.note} advantage;
+
+
+. . .
+
+- [Comparative]{.note} advantage.
+
+
+
+## Advantages
+
+<br>
+
+A few cases:
+
+
+
+. . .
+
+<br>
+
+- Oil
+
+- Coffee
+
+- Copper
+
+- Corn
+
+- iPhones
+
+- Apparel
+
+
+
+
+# The current context {background-color="#62259D"}
+
+
+##  {background-image="vanilla-nyt.jpg"}
+
+
+## The current context
+
+<br><br><br>
+
+
+[[Some data]{.link}](https://wits.worldbank.org/trade/comtrade/en/country/USA/year/2023/tradeflow/Imports/partner/ALL/product/090500#:~:text=United%20States%20imports%20of%20Vanilla,3%2C064.58K%20%2C%2024%2C298%20Kg)
+
+
+## The current context
+
+<br>
+
+An excerpt from this [[Forbes piece]{.link}](https://www.forbes.com/sites/hanktucker/2025/04/11/trumps-tariff-pause-gives-cinnamon-and-vanilla-lovers-relief-as-globalization-gets-a-reprieve/):
+
+<br>
+
+> *"Take vanilla: around 80% of America’s supply of it comes from Madagascar, one of the only places it can be produced thanks to about 100 inches of rainfall per year and humid temperatures between 68 and 86 degrees. President Trump’s widely discredited formula for calculating reciprocal tariff rates, which intended to eliminate trade deficits with around 90 countries, places Madagascar’s tariff at 47%, despite the fact that it would be impossible for the island nation of 31 million with a GDP per capita of \$506 per year to import more than the $733 million it exports, mostly in vanilla, clothing, titanium, cobalt and nickel, to the United States."*
+
+
+## The current context
+
+<br>
+
+So...
+
+
+. . .
+
+
+<br><br>
+
+
+[What is a tariff?]{.note}
+
+
+. . .
+
+
+- A [tariff]{.note} is a tax levied on imports to the importing country (e.g., the United States).
+
+. . .
+
+
+
+By raising the cost of foreign-produced goods or services relative to locally produced ones, a tariff **redistributes** some of the benefits of trading from local [consumers]{.hi-slate} and foreign producers to local [producers]{.hi-red} of import-competing goods.
+
+
+
+
+
+
+# Barriers to trade {background-color="#62259D"}
+
+
+## Barriers to trade
+
+<br>
+
+
+Imposing [barriers]{.note} to international trade is known as [protectionism.]{.hi}
+
+. . .
+
+<br>
+
+The most [common]{.hi-purple} types of barriers to trade are:
+
+
+- [Tariffs]{.note};
+
+- [Import quotas]{.note};
+
+- [Embargoes]{.note}.
+
+
+
+## Barriers to trade
+
+
+<br> 
+
+[Import quotas]{.note} are numerical *limitations* on the quantity of products that a country can import. 
+
+
+<br>
+
+- [[Sugar quotas]{.link}](https://www.sugarcane.org/sugarcane-products/sugar/sugar-trade/#usa-tariff-rate)
+
+- [[Commodities Subject to Import Quotas (U.S.)]{.link}](https://www.cbp.gov/trade/quota/guide-import-goods/commodities)
+
+
+## Barriers to trade
+
+
+<br> 
+
+
+[Embargoes]{.note} (*aka* sanctions) are [penalties]{.hi-purple} (which can go beyond trade-related measures) against countries, entities, or individuals.
+
+. . .
+
+<br><br>
+
+[[U.S. Sanctions Programs and Country Information]{.link}](https://ofac.treasury.gov/sanctions-programs-and-country-information)
+
+
+
+# Tariffs (in general) {background-color="#62259D"}
+
+
+## {background-image="wto.jpg"}
+
+
+
+
+
+
+## Tariffs (in general)
+
+
+<br>
+
+Little bits of [History]{.note}:
+
+- 1945: Creation of the [United Nations]{.note} (UN)
+
+- 1946: Creation of the [World Bank]{.note} (WB) and the [International Monetary Fund]{.note} (IMF)
+
+- 1947: 27 nations signed the [General Agreement on Tariffs and Trade]{.note} (GATT)
+
+<br><br>
+
+
+. . .
+
+- 1995: GATT transformed into the [World Trade Organization]{.note} (WTO).
+
+
+## Tariffs (in general)
+
+
+<br>
+
+
+The [WTO]{.note}'s main goal is to [reduce the barriers to trade]{.hi}.
+
+
+. . .
+
+<br>
+
+WTO negotiations happen in “*rounds*,” where all countries negotiate one agreement to encourage trade, take a year or two off, and then start negotiating a new agreement.
+
+
+. . .
+
+
+<br>
+
+
+[[The WTO at 30: The return of higher tariffs (PIIE)]{.link}](https://www.piie.com/commentary/speeches-papers/2025/wto-30-return-higher-tariffs)
+
+
+[[Why the US and the WTO should part ways (VoxEU)]{.link}](https://cepr.org/voxeu/columns/why-us-and-wto-should-part-ways)
+
+
+# Next time: Tariffs (the specifics) {background-color="#62259D"}
