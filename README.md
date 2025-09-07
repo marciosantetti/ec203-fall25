@@ -24,3 +24,7 @@
 
 
 <br>
+
+- [`001: Why people trade`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/001-trade/001-trade-1.html)
+
+- [`001: Why coountries trade (I)`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/001-trade/001-trade-2.html)
