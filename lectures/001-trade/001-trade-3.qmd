@@ -61,8 +61,6 @@ There are basically [three arguments]{.hi-purple} in support of using [tariffs]{
 
 [[1]]{.note}:  The [infant industry]{.hi} argument:
 
-[Maybe list a section (intro) for students?]
-
 
 ![](infant.png){fig-align="center" width="550" height="500"}
 
@@ -140,6 +138,19 @@ There are basically [three arguments]{.hi-purple} in support of using [tariffs]{
 
 
 
+# Before we move on...
+
+
+
+##
+
+
+<br><br><br>
+
+
+[[The Global Effort to Make an American Microchip (NYT)]{.link}](https://www.nytimes.com/interactive/2024/03/20/business/economy/semiconductor-chip-manufacturing-us.html)
+
+
 # The current tariff context {background-color="#62259D"}
 
 
@@ -156,29 +167,24 @@ There are basically [three arguments]{.hi-purple} in support of using [tariffs]{
 
 
 
-<br><br>
+<br><br><br>
 
 
-![](china-1.png){fig-align="center" width="550" height="300"}
-
-
-## The current tariff context
-
-
-
-<br><br>
-
-![](china-2.png){fig-align="center" width="700" height="300"}
+[[Tariff day podcast (Trade Talks)]{.link}](https://tradetalkspodcast.com/podcast/207-what-happened-on-trumps-tariff-day/)
 
 
 ## The current tariff context
 
 
 
-<br>
+<br><br><br>
 
 
-![](china-84.png){fig-align="center" width="750" height="500"}
+[[Trump's trade war timeline 2.0: An up-to-date guide (PIIE)]{.link}](https://www.piie.com/blogs/realtime-economics/2025/trumps-trade-war-timeline-20-date-guide)
 
 
-# Next time: ??? {background-color="#62259D"}
+
+
+
+
+# Next time: Consumer preferences & demand {background-color="#62259D"}
