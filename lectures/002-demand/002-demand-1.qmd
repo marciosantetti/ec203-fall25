@@ -1,0 +1,132 @@
+---
+title: "Consumer preferences"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# From trade to consumption {background-color="#62259D"}
+  
+  
+  
+## From trade to consumption
+
+
+<br><br>
+
+Who are the [first]{.hi-slate} affected by [barriers to trade]{.hi-purple} (e.g., [tariffs]{.note})?
+
+
+
+. . .
+
+
+<br>
+
+
+And [second]{.hi-pink}?
+
+
+## From trade to consumption
+
+<br><br><br>
+
+
+[[Who is paying for Trump's tariffs? So far, it's US businesses. (PIIE)]{.link}](https://www.piie.com/blogs/realtime-economics/2025/who-paying-trumps-tariffs-so-far-its-us-businesses)
+
+
+
+## From trade to consumption
+
+
+<br><br><br>
+
+
+[[Consumers Are Pulling Back, Spooked by Tariff-Related Price Increases (NYT)]{.link}](https://www.nytimes.com/2025/05/07/business/tariffs-prices-consumers.html)
+
+
+
+# Demand {background-color="#62259D"}
+
+
+## Demand 
+
+<br>
+
+If not always, consumers are usually [price takers]{.note}.
+
+. . .
+
+
+<br><br>
+
+
+[Consumers]{.hi-slate} *vs.* [higher prices]{.hi-pink}
+
+
+
+
+## Demand 
+
+<br>
+
+
+Not just [prices]{.hi}.
+
+. . .
+
+<br>
+
+
+[Demand]{.note} is also affected by:
+
+<br>
+
+- Changes in [taste]{.hi-purple};
+
+- Price of [complements]{.hi-slate};
+
+- Price of [substitutes]{.hi-red}.
+
+
+
+## Demand
+
+
+<br><br><br>
+
+
+[[Quick survey]{.link}](https://forms.gle/QnLUSnjPcD8E8VGV7)
+
+
+
+## Demand 
+
+<br>
+
+Consumers have only so much [income]{.hi-green} to spend.
+
+. . .
+
+
+<br><br>
+
+
+Two categories:
+
+- [Normal]{.note} goods;
+
+- [Inferior]{.note} goods.
+
+
+
+
+
+# Next time: Elasticities {background-color="#62259D"}

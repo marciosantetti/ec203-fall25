@@ -1,0 +1,1 @@
+[WSJ piece](https://www.wsj.com/economy/trade/trumps-tariffs-are-being-picked-up-by-corporate-america-0befd9bd)

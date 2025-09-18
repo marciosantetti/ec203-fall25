@@ -1,0 +1,149 @@
+---
+title: "Demand features"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Elasticities {background-color="#62259D"}
+
+
+## Elasticities 
+
+<br>
+
+To [quantify]{.hi-green} consumer behavior &rarr; [elasticity]{.note}
+
+. . .
+
+
+<br><br>
+
+The most common elasticity category is the ***price elasticity***. 
+
+
+. . .
+
+<br>
+
+
+Suppose a [change in the price]{.note} of a good/service:
+
+. . .
+
+- *Large change* in the quantity demanded?
+
+- *Small change* in the quantity demanded?
+
+
+## Elasticities 
+
+<br><br>
+
+$$
+\text{Price elasticity of demand} = \dfrac{\Delta Q}{\Delta P}
+$$
+
+. . .
+
+<br><br><br>
+
+Elasticity is all about [proportional changes]{.hi-purple}.
+
+
+## Elasticities 
+
+<br>
+
+[What influences the demand elasticity?]{.note}
+
+. . .
+
+<br><br>
+
+- [Necessity]{.hi-orange} or [luxury]{.hi-green}?
+
+. . .
+
+- Good [substitutes]{.hi-slate}?
+
+. . .
+
+- Can it be [postponed]{.hi}?
+
+
+## Prices, elasticity, and consumer responses
+
+<br>
+
+
+
+![From Andreyeva et al. (2010). The Impact of Food Prices on Consumption: A Systematic Review of Research on the Price Elasticity of Demand for Food. *American Journal of Public Health*, 100(2).](elast.png)
+
+
+
+# Income elasticity {background-color="#62259D"}
+
+
+
+## Income elasticity 
+
+<br>
+
+
+The **income elasticity of demand** is the percentage change in the quantity demanded following a *percentage change in income.* 
+
+. . .
+
+<br>
+
+
+
+$$
+\text{Income elasticity of demand} = \dfrac{\Delta Q}{\Delta I}
+$$
+
+
+# Consumer sentiment {background-color="#62259D"}
+
+
+
+
+## Consumer sentiment
+
+<br><br><br>
+
+[[Consumer confidence worsened slightly in August (ABC News)]{.link}](https://abcnews.go.com/Business/consumer-confidence-worsened-slightly-august/story?id=124985684)
+
+
+## Consumer sentiment
+
+<br>
+
+
+In the US, we have two [surveys]{.hi} that [track consumer confidence]{.note} over time:
+
+. . .
+
+
+<br>
+
+
+- [[US Consumer Confidence (The Conference Board)]{.link}](https://www.conference-board.org/topics/consumer-confidence/);
+
+
+<br>
+
+
+
+- [[Index of Consumer Sentiment (University of Michigan)]{.link}](https://data.sca.isr.umich.edu/).
+
+
+# Next time: The public sector {background-color="#62259D"}
