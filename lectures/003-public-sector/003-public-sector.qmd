@@ -1,0 +1,324 @@
+---
+title: "The public sector"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# The government & the economy {background-color="#62259D"}
+  
+  
+  
+## The government & the economy
+
+
+<br>
+
+[Two]{.note} sides:
+
+. . .
+
+
+<br><br>
+
+- [Expenditures]{.note} side;
+
+- [Revenue]{.note} side.
+
+
+
+## The government & the economy
+
+
+<br>
+
+[Expenditures]{.note} side:
+
+
+<br>
+
+- What kind of [services]{.note} should the government provide, if any?
+
+- Why should the government be spending billions of dollars on aid to local [schools]{.note}, [health insurance]{.note} for the [unemployed]{.note}, and new electrical grids? 
+
+- Why is the government the [primary provider]{.note} of goods and services such as highways and education?
+
+- Then why the provision of goods and services such as clothing, entertainment, and property insurance is generally left to the [private]{.note} sector? 
+
+
+
+## The government & the economy
+
+
+<br>
+
+[Revenue]{.note} side:
+
+
+<br>
+ 
+- How much should the government [tax]{.note} its citizens?
+
+- How should the amount of taxes be related to the [economic circumstances]{.note} of those individuals?
+
+- What kinds of [activities]{.note} should be taxed or be given tax relief in difficult times? 
+
+- What [effect]{.note} do taxes have on the [functioning]{.note} of the economy?
+
+
+
+## The government & the economy
+
+
+<br>
+
+[3]{.note} questions:
+
+
+<br>
+
+
+1. [When]{.note} should the government [intervene]{.note} in the economy?
+
+. . .
+
+2. [How]{.note} might the government intervene?
+
+. . .
+
+3. [What]{.note} is the [effect]{.note} of those interventions on economic outcomes?
+
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[1]]{.note} [When]{.note} should the government [intervene]{.note} in the economy?
+
+. . .
+
+<br>
+
+
+[Two]{.note} occasions:
+
+
+
+- Market failures;
+
+- Redistribution.
+
+
+
+
+## The government & the economy
+
+
+<br>
+
+
+- [Market failures]{.note}:
+
+<br><br>
+
+
+. . .
+
+
+Efficient interactions?
+
+
+## The government & the economy
+
+
+<br>
+
+
+- [Redistribution]{.note}:
+
+<br><br>
+
+
+. . .
+
+"Too-well-off" *vs.* "not-well-off-enough" citizens.
+
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[2]]{.note} [How]{.note} might the government intervene?
+
+. . .
+
+<br>
+
+
+Several ways:
+
+
+- [Price]{.note} mechanism;
+
+- [Restricting/mandating]{.note} private sales/purchases;
+
+- [Direct provision]{.note} of goods/services;
+
+- [Financing]{.note} private entities.
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[2]]{.note} [How]{.note} might the government intervene?
+
+
+<br>
+
+
+
+- [Price]{.note} mechanism:
+
+
+<br>
+
+1. [Taxes]{.note}: &uarr; prices;
+
+2. [Subsidies]{.note}: &darr; prices;
+
+
+## The government & the economy
+
+
+
+
+![](cigs.png){fig-align="center" width="1050" height="600"}
+
+
+
+## The government & the economy
+
+<br>
+
+
+![](snap.png){fig-align="center" width="600" height="200"}
+
+
+<br>
+
+[[Quick video]{.link}](https://www.youtube.com/watch?v=4D8gZ-LrSW8)
+
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[2]]{.note} [How]{.note} might the government intervene?
+
+
+<br>
+
+- [Restricting/mandating]{.note} private sales/purchases
+
+
+
+
+## 
+
+
+
+![](mass.png){fig-align="center" width="1000" height="700"}
+
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[2]]{.note} [How]{.note} might the government intervene?
+
+
+<br>
+
+
+
+- [Direct provision]{.note} of goods/services
+
+
+
+## The government & the economy
+
+
+
+
+
+![](mm.jpeg){fig-align="center" width="950" height="600"}
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[2]]{.note} [How]{.note} might the government intervene?
+
+
+<br>
+
+- [Financing]{.note} private entities.
+
+
+. . .
+
+
+<br>
+
+[[US Taxpayers Heavily Funded the Discovery of COVID-19 Vaccines]{.link}](https://pmc.ncbi.nlm.nih.gov/articles/PMC8426978/pdf/CPT-111-542.pdf)
+
+
+
+[[Brazil: Access and reimbursement of medicines in the public market]{.link}](https://www.ibanet.org/brazil-access-reimbursement-medicine)
+
+
+## The government & the economy
+
+
+<br>
+
+
+[[3]]{.note} [What]{.note} is the [effect]{.note} of those interventions on economic outcomes?
+
+<br>
+
+
+. . .
+
+[[Brazil's Bolsa Familia program]{.link}](https://wwp.org.br/wp-content/uploads/02.-BFP-Program-Sheet.pdf)
+
+[[Nutrition security gains: UN confirms Brazil is off the FAO Hunger Map]{.link}](https://www.nutritioninsight.com/news/un-fao-hunger-map-brazil-malnutrition-food-security.html)
+
+
+
+# Next time: Taxation {background-color="#62259D"}

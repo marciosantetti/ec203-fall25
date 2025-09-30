@@ -1,0 +1,111 @@
+---
+title: "Taxation"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# A complicated matter {background-color="#62259D"}
+  
+  
+  
+## A complicated matter
+
+
+<br><br><br>
+
+
+[[U.S. internal revenue code]{.link}](https://www.govinfo.gov/content/pkg/USCODE-2011-title26/pdf/USCODE-2011-title26.pdf)
+
+
+## A complicated matter
+
+
+<br><br>
+
+
+Taxes can:
+
+- [Stimulate]{.note} desirable behavior;
+
+- [Discourage]{.note} unwanted behavior.
+
+
+# Progressivity {background-color="#62259D"}
+  
+  
+  
+## Progressivity
+
+
+<br>
+
+
+[3]{.note} instances of [tax progressivity]{.note}:
+
+<br>
+
+- [Regressive]{.note} regime;
+
+- [Proportional]{.note} regime;
+
+- [Progressive]{.note} regime.
+
+
+
+
+# Tax dimensions  {background-color="#62259D"}
+
+
+
+## Tax dimensions
+
+
+<br>
+
+[Federal taxes]{.hi-green}
+
+- [Income]{.note} tax;
+
+- Taxes for federal [social insurance]{.note} programs;
+
+- [Corporate]{.note} taxes;
+
+- [Excise]{.note} taxes.
+
+
+
+. . .
+
+
+[State and local taxes]{.hi-pink}
+
+- [Excise]{.note} taxes;
+
+- [Property]{.note} taxes;
+
+- [Income]{.note} taxes.
+
+
+
+# Current events  {background-color="#62259D"}
+
+
+
+## Current events
+
+
+<br><br><br>
+
+
+[["One, Big Beautiful Bill" Act (2025)]{.link}](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
+
+
+# Next time: Unemployment & immigration {background-color="#62259D"}
