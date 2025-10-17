@@ -35,3 +35,8 @@
 
 - [`002: Consumer preferences`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/002-demand/002-demand-1.html)
 - [`002: Demand features`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/002-demand/002-demand-2.html)
+
+<br>
+
+- [`003: The public sector`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/003-public-sector/003-public-sector.html)
+- [`003: Taxation`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/003-public-sector/003-taxation.html)
