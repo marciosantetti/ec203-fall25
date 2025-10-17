@@ -1,0 +1,118 @@
+---
+title: "Immigration in figures"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Immigration in context {background-color="#62259D"}
+
+ 
+## Immigration in context
+
+<br>
+
+[Immigration]{.note} is among the most important [economic]{.note} and [political]{.note} issues.
+
+<br>
+
+. . .
+
+
+It is also a main topic of discourse and debate among [policymakers]{.note} and the [public.]{.note} 
+
+<br>
+
+
+. . .
+
+
+However, [misperceptions]{.hi} persist about many [fundamental]{.note} aspects of this crucial topic.
+
+
+## How many immigrants?
+
+<br>
+
+
+![Source: Economic Policy Institute (2025).](imm.png){fig-align="center" width="700" height="400"}
+
+
+## How many immigrants?
+
+<br>
+
+
+![Source: Economic Policy Institute (2025).](imm2.png){fig-align="center" width="700" height="400"}
+
+
+
+## Status
+
+
+<br>
+
+![Source: Economic Policy Institute (2025).](pie.png){fig-align="center" width="650" height="500"}
+
+## Race
+
+
+<br>
+
+![Source: Economic Policy Institute (2025).](pie2.png){fig-align="center" width="650" height="400"}
+
+## Ethnicity
+
+
+<br>
+
+![Source: Economic Policy Institute (2025).](pie3.png){fig-align="center" width="750" height="400"}
+
+
+## Contributions to the economy
+
+<br><br>
+
+![Source: Economic Policy Institute (2025).](table.png){fig-align="center" width="700" height="200"}
+
+
+## Contributions to the economy
+
+<br>
+
+![Source: Economic Policy Institute (2025).](growth.png){fig-align="center" width="800" height="400"}
+
+## Contributions to the economy
+
+<br>
+
+![Source: Economic Policy Institute (2025).](educ.png){fig-align="center" width="800" height="500"}
+
+## Contributions to the economy
+
+
+
+![Source: Economic Policy Institute (2025).](table2.png){fig-align="center" width="650" height="550"}
+
+
+
+## The big question
+
+. . .
+
+
+
+
+
+![Source: [Caiumi and Peri (2024)](https://www.nber.org/system/files/working_papers/w32389/w32389.pdf).](bar.png){fig-align="center" width="900" height="550"}
+
+
+
+# Next time: Education and student debt {background-color="#62259D"}

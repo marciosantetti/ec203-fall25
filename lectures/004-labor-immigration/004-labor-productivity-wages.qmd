@@ -1,0 +1,129 @@
+---
+title: "The labor market, productivity, and wages"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# The *productivity-pay* gap {background-color="#62259D"}
+  
+  
+  
+## The *productivity-pay* gap
+
+
+<br>
+
+
+If one wishes to [understand]{.note} the current U.S. patterns of [income distribution]{.hi}...
+
+. . .
+
+- Look at the [job market]{.note}!
+
+
+. . .
+
+
+<br>
+
+
+That is where most typical families/individuals earn their [income.]{.note}
+
+
+## The *productivity-pay* gap
+
+
+<br><br><br>
+
+
+[[The *productivity-pay* gap]{.link}](https://www.epi.org/productivity-pay-gap/)
+
+
+## The *productivity-pay* gap
+
+
+<br><br><br>
+
+
+Let us study the [divergence]{.hi-red} between productivity and wages through a [policy perspective]{.note}.
+
+
+# Timeline {background-color="#62259D"}
+
+
+## Timeline
+
+<br>
+
+1930s: [Post-Great Depression]{.note} economy
+
+
+
+::: {.incremental}
+
+- How much [unemployment]{.note}?
+
+- [New Deal]{.note}
+
+- [National Industrial Recovery Act](https://www.archives.gov/milestone-documents/national-industrial-recovery-act) ([NIRA]{.note}, 1933)
+
+- [National Labor Relations Act](https://www.archives.gov/milestone-documents/national-labor-relations-act) ([NLRA]{.note}, 1935)
+
+- [Taxes]{.note} on top earners: 79%
+
+- End of Depression-era unemployment: [World War II]{.note}
+
+:::
+
+## Timeline
+
+<br>
+
+1940s: [Post-WWII]{.note} economy
+
+::: {.incremental}
+
+- How to [pay]{.note} for the war? [The Revenue Act of 1942](https://www.dol.gov/node/22387)
+
+- [*National Labor-Management Conference*](https://www.trumanlibrary.gov/photograph-records/2018-837) (November 1945)
+
+- UAW and the "Big Three" (GM, Chrysler, and Ford): The [[Treaty of Detroit]{.note}](https://motorcities.org/making-tracks/1950/reuther-s-treaty-of-detroit) (1948 and 1950)
+
+:::
+
+## Timeline
+
+<br><br>
+
+1950s and 1960s: [War]{.note} economy (again), increasing [female]{.note} labor force participation
+
+. . .
+
+
+<br><br>
+
+1970s: [Deregulation]{.note} and the beginning of the [gap]{.note}
+
+
+
+## 
+
+
+
+![Source: Peoples (1998)](dereg-table.png){fig-align="center" width="750" height="650"}
+
+
+
+
+
+
+
+# Next time: Immigration {background-color="#62259D"}
