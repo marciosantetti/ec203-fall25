@@ -40,3 +40,7 @@
 
 - [`003: The public sector`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/003-public-sector/003-public-sector.html)
 - [`003: Taxation`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/003-public-sector/003-taxation.html)
+
+<br>
+
+- [`004: Labor, productivity, and wages`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/004-labor-immigration/004-labor-productivity-wages.html)
