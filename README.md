@@ -44,3 +44,5 @@
 <br>
 
 - [`004: Labor, productivity, and wages`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/004-labor-immigration/004-labor-productivity-wages.html)
+- [`004: Immigration`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/004-labor-immigration/004-immigration.html)
+
