@@ -1,0 +1,149 @@
+---
+title: "Education & student debt"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# First things first {background-color="#62259D"}
+  
+  
+  
+## First things first
+
+
+<br><br><br>
+
+
+[[U.S. Bureau of Labor Statistics: Education pays]{.link}](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
+
+
+# The market for college graduates {background-color="#62259D"}
+
+
+
+## The market for college graduates
+
+<br><br><br>
+
+[[Federal Reserve Bank of New York: The Labor Market for Recent College Graduates]{.link}](https://www.newyorkfed.org/research/college-labor-market#--:overview)
+
+
+## Two importanr articles
+
+<br><br>
+
+
+
+- [[Paul Krugman: Bad Times for College Graduates]{.link}](https://paulkrugman.substack.com/p/bad-times-for-college-graduates)
+
+<br>
+
+
+- [[Brad DeLong: Policy Uncertainty, Not "AI"-Automation, Is Almost Surely Behind the Bulk of Recent Graduates' Job Discontent]{.link}](https://braddelong.substack.com/p/policy-uncertainty-not-ai-automation?r=u6x&triedRedirect=true)
+
+
+
+# Student debt {background-color="#62259D"}
+
+
+
+## Student debt
+
+<br><br><br>
+
+
+The [logic]{.note} of debt
+
+
+## Student debt
+
+<br>
+
+
+More than [half]{.note} of undergraduates rely on [federal]{.note} student loans to finance college.
+
+. . .
+
+<br>
+
+Primary sources:
+
+<br>
+
+- [Stafford loans]{.note}:
+
+
+  - [Direct Subsidized Loans:]{.note} on the basis of financial need.
+  - [Direct Unsubsidized Loans:]{.note} regardless of financial need.
+  
+  
+## Student debt
+
+<br>
+
+
+More than [half]{.note} of undergraduates rely on [federal]{.note} student loans to finance college.
+
+
+
+<br>
+
+Primary sources:
+
+<br>
+
+- [PLUS loans]{.note}:
+
+
+  - [Parent PLUS:]{.note} Loans to parents of dependent students.
+  - [Graduate PLUS:]{.note}  Additional loans (beyond Stafford) to graduate and professional degree students.
+
+
+## Student debt
+
+<br><br><br>
+
+
+[[Interest rates on student loans]{.link}](https://studentaid.gov/understand-aid/types/loans/interest-rates)
+
+
+
+
+## Student debt
+
+
+<br><br><br>
+
+
+
+[[Project on Student Debt (The Institute for College Access & Success)]{.link}](https://ticas.org/our-work/student-debt/)
+
+
+
+## Student debt
+
+<br><br>
+
+
+- [[Household debt balances]{.link}](https://www.newyorkfed.org/microeconomics/hhdc)
+
+<br>
+
+
+
+- [[Student Loan Debt Statistics]{.link}](https://educationdata.org/student-loan-debt-statistics)
+
+
+
+
+
+
+# Next time: Financialization {background-color="#62259D"}
