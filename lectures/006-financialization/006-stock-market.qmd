@@ -1,0 +1,283 @@
+---
+title: "Financialization (III): Financial assets"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Quick recap {background-color="#62259D"}
+  
+  
+  
+## Quick recap
+
+
+<br>
+
+
+From our last lectures, we learned that:
+
+. . .
+
+<br><br>
+
+- *Households/individuals* [supply]{.note} funds in financial markets;
+
+. . .
+
+- *Businesses* [demand]{.note} funds in financial markets to expand their operations and increase profits.
+
+
+
+  
+## Quick recap
+
+
+<br><br><br>
+
+
+- However, no one [supplies]{.note} or [demand]{.note} monetary funds for [free]{.note}.
+
+<br><br>
+
+
+. . .
+
+
+Learning about [financial assets]{.note} helps us understand this [supply-and-demand relationship]{.note} in financial markets.
+
+
+
+# Financial assets {background-color="#62259D"}
+
+
+
+## Financial assets
+
+
+<br>
+
+
+We will investigate a few [financial assets]{.note} in further detail:
+
+<br>
+
+
+::: {.incremental}
+
+- Stocks;
+
+- Housing;
+
+- Bonds.
+
+:::
+
+
+
+# Stocks {background-color="#62259D"}
+
+
+## Stocks
+
+<br><br>
+
+
+Recall:
+
+. . .
+
+
+<br>
+
+
+- [Stock]{.note} &Implies; [ownership]{.note}
+
+
+## Stocks
+
+<br><br>
+
+
+A [stock]{.note} consists of an ownership [share]{.note} of a business.
+
+. . .
+
+<br>
+
+
+An individual/business who owns a share of a company is known as a [shareholder]{.note}.
+
+
+## Stocks
+
+<br><br>
+
+
+
+::: {.incremental}
+
+
+- [[Old stock 1]{.link}](https://upload.wikimedia.org/wikipedia/commons/b/b5/B%26O_RR_common_stock.jpg)
+
+- [[Old stock 2]{.link}](https://cdn11.bigcommerce.com/s-gvae5krt3k/images/stencil/1280x1280/products/9906/4722/american-sugar-company-stock-original-dow-average-company-50__67440.1624995155.jpg?c=1)
+
+- [[Old stock 3]{.link}](https://cdn11.bigcommerce.com/s-gvae5krt3k/images/stencil/1280x1280/products/3068/1385/mcgraw-hill-inc-standard-poor-s-financial-services-and-book-publishing-1973-51__08679.1624995057.jpg?c=1)
+
+- [[Old stock 4]{.link}](https://cdn11.bigcommerce.com/s-gvae5krt3k/images/stencil/1280x1280/products/8085/2622/united-states-leather-company-original-dow-average-component-1943-50__43493.1624995089.jpg?c=1)
+
+:::
+
+
+
+## Stocks
+
+<br><br>
+
+The ownership of a [stock]{.note} provides someone a [return]{.note} in [two]{.note} forms:
+
+<br>
+
+::: {.incremental}
+
+- Dividends;
+
+- Capital gains.
+:::
+
+
+. . .
+
+<br>
+
+[Which of these two gives money to the business?]{.note}
+
+
+
+## Stocks
+
+
+<br><br>
+
+
+
+A (public) corporation’s [stock price]{.note} is a signal of how [valuable]{.note} investors believe the company is.
+
+
+. . .
+
+
+<br><br>
+
+
+[[Looking at stock prices]{.link}](https://finance.yahoo.com/)
+
+
+
+## Stocks
+
+
+<br><br>
+
+
+- How to measure [overall]{.note} stock market performance?
+
+
+
+. . .
+
+
+<br>
+
+
+[[Some measures]{.link}](https://www.cnbc.com/stocks/)
+
+
+
+## Stocks
+
+
+<br><br><br>
+
+
+The [Great Depression]{.note} (1929)
+
+
+. . .
+
+
+<br>
+
+The [Dot-com bubble]{.note} (2000)
+
+
+
+# Housing {background-color="#62259D"}
+
+## Housing
+
+
+<br>
+
+
+Households can purchase [tangible]{.note} assets, such as [housing]{.note}.
+
+. . .
+
+
+<br>
+
+
+Example:
+
+
+::: {.incremental}
+- Buy a house for &dollar;200,000
+- 10% as down payment
+- Over time, pay off some of the mortgage
+- Suppose &dollar;100,000 remain
+- And house market value rises to &dollar;250,000
+- What is the house's [equity]{.note}?
+
+:::
+
+
+
+## Housing
+
+
+<br><br><br>
+
+
+[[Median U.S. house sale prices]{.link}](https://fred.stlouisfed.org/series/MSPUS)
+
+
+
+## Housing
+
+
+<br><br><br>
+
+
+Other [tangible]{.note} assets?
+
+
+
+## In closing
+
+
+
+<br><br><br>
+
+
+[[Trump’s undeniable stock market victory that no one saw coming (CNN)]{.link}](https://www.cnn.com/2025/11/04/markets/us-stock-market)
+
+
+# Next time: Deficits & debt {background-color="#62259D"}

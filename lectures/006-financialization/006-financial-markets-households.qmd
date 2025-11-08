@@ -1,0 +1,219 @@
+---
+title: "Financialization (II): Financial markets & households"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# The household perspective {background-color="#62259D"}
+  
+  
+  
+## The household perspective 
+
+
+<br><br>
+
+
+How [businesses]{.note} raise [&dollar;&dollar;&dollar;]{.hi-green} for their expansion plans is only [half]{.note} the story.
+
+. . .
+
+
+<br>
+
+The other half is what [households and individuals]{.note} do to [supply]{.hi-green} those funds.
+
+
+
+
+# Savings {background-color="#62259D"}
+
+
+## Savings
+
+<br><br>
+
+It only makes [sense]{.note} for individuals to be in financial markets if there are [savings]{.note}.
+
+. . .
+
+
+<br>
+
+
+> [Savings]{.note} constitute the share of disposable (after-tax) income that is [not]{.note} spent on [consumption]{.note} of goods and services.
+
+. . .
+
+<br>
+
+
+$$
+\text{Savings} = \text{Disposable income} - \text{Consumption}
+$$
+
+
+
+## Savings
+
+<br>
+
+- [What to do with savings?]{.note}
+
+
+. . .
+
+
+<br>
+
+Some options:
+
+::: {.incremental}
+
+- Cash
+- Savings account
+- Government bonds
+- Stocks
+- Housing
+- Gold
+- Other financial assets
+
+:::
+
+
+## Savings
+
+<br>
+
+The fundamental [difference]{.note} between [cash]{.note} and other [financial assets]{.note}:
+
+
+<br><br>
+
+
+
+. . .
+
+
+- [Liquidity]{.note}
+
+
+
+
+## Savings
+
+<br><br><br>
+
+
+
+- Cash
+- Savings account
+- Government bonds
+- Stocks
+- Housing
+- Gold
+- Other financial assets
+
+
+
+# Liquidity, return, & risk {background-color="#62259D"}
+
+
+## Liquidity, return, & risk
+
+
+<br><br>
+
+When separating oneself from [liquidity]{.note}, [three]{.note} things to consider:
+
+<br>
+
+
+::: {.incremental}
+1. [How much]{.note} I will be paid?
+2. Will I be paid more or less than [expected]{.note}?
+3. How [easily]{.note} can I get rid of this asset?
+:::
+
+
+
+## Liquidity, return, & risk
+
+
+<br><br>
+
+When separating oneself from [liquidity]{.note}, [three]{.note} things to consider:
+
+<br>
+
+
+::: {.incremental}
+1. [How much]{.note} I will be paid? = [Return]{.note}
+2. Will I be paid more or less than [expected]{.note}? = [Risk]{.note}
+3. How [easily]{.note} can I get rid of this asset? = [Liquidity]{.note}
+:::
+
+
+
+## Liquidity, return, & risk
+
+
+<br><br><br>
+
+
+::: {.incremental}
+
+- A financial asset's [rate of return]{.note} is the [reward]{.note} for parting ways with cash.
+
+- [Risk]{.note} is the possibility (odds) that expected projects [may not work]{.note}.
+
+- An asset's [liquidity]{.note} refers to how [easily]{.note} one can exchange it for cash.
+
+:::
+
+
+
+# When businesses and individuals shake hands {background-color="#62259D"}
+
+## When businesses and individuals shake hands
+
+<br>
+
+
+[Businesses]{.note} incur in [debt]{.note} in order to expand and increase [profits.]{.note}
+
+. . .
+
+
+<br>
+
+- In other words, businesses [demand]{.note} cash.
+
+. . .
+
+
+<br>
+
+
+[Households/Individuals]{.note} who can [save]{.note} want a return from parting ways with cash.
+
+. . .
+
+<br>
+
+- Given certain [risk, return, and liquidity]{.note} conditions, individuals [supply]{.note} cash.
+
+
+
+
+
+
+# Next time: Financial assets, in detail {background-color="#62259D"}

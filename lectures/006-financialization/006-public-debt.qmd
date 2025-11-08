@@ -1,0 +1,30 @@
+---
+title: "Financialization (III): Public financing"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+#  {background-color="#62259D"}
+  
+  
+  
+## 
+
+
+<br>
+
+
+
+[[A U.S. Treasury bond from 1976]{.link}](https://res.cloudinary.com/dzawgnnlr/image/upload/dnzczrwa47pu6kpq7d3m.jpg)
+
+
+
+# Next time: The stock market {background-color="#62259D"}

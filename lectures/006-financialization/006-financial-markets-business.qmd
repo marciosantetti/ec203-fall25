@@ -1,0 +1,263 @@
+---
+title: "Financialization (I): Financial markets & businesses"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+  
+# Debt (in general) {background-color="#62259D"}
+  
+  
+  
+## Debt (in general) 
+
+
+<br><br>
+
+
+The [logic]{.note} of debt, again
+
+
+# Why financial markets exist {background-color="#62259D"}
+
+
+
+## Why financial markets exist
+
+<br><br>
+
+- Remember the [definition]{.note} of *markets*?
+
+
+
+
+<br><br>
+
+
+::: {.incremental}
+
+- Housing
+- Credit card purchases
+- Vehicles
+- Business expansion
+
+:::
+
+
+
+## Why financial markets exist
+
+<br><br><br>
+
+
+
+Financial markets [bridge a gap]{.note}
+
+
+
+
+
+# How businesses raise financial capital {background-color="#62259D"}
+
+
+## How businesses raise financial capital
+
+
+<br><br>
+
+A common [business problem]{.note}:
+
+. . .
+
+<br>
+
+
+- Spending money in the [present]{.note} and expecting to earn profits in the [future.]{.note}
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+::: {.incremental}
+
+[[1]]{.note} [Early-stage]{.note} investors;
+
+[[2]]{.note} Reinvesting [profits]{.note};
+
+[[3]]{.note} Borrowing through [banks]{.note};
+
+[[4]]{.note} Selling [stock.]{.note}
+
+:::
+
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+[[1]]{.note} [Early-stage]{.note} investors
+
+
+
+
+::: {.incremental}
+
+- An idea
+
+- A prototype
+
+- Few/no customers
+
+- Venture capital
+
+- Where does the money come from?
+
+:::
+
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+[[1]]{.note} [Early-stage]{.note} investors
+
+
+<br>
+
+
+[[VC-Backed Founder Pitches Shark Tank And Wins Big. Is This A Trend? (Forbes)]{.link}](https://www.forbes.com/sites/shimiteobialo/2024/04/30/vc-backed-founder-pitches-on-shark-tank--is-this-a-trend/)
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+[[2]]{.note} Reinvesting [profits]{.note}
+
+<br>
+
+. . .
+
+[[6 Companies That Invest in Themselves (Kiplinger)]{.link}](https://www.kiplinger.com/slideshow/investing/t052-s003-6-companies-that-invest-in-themselves/index.html)
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+[[3]]{.note} Borrowing through [banks]{.note}
+
+. . .
+
+
+- Consequences?
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+[[3]]{.note} Borrowing through [banks]{.note}
+
+. . .
+
+<br>
+
+[[What legal actions can creditors take if you don't pay your credit card debt? (CBS News)]{.link}](https://www.cbsnews.com/news/what-legal-actions-can-creditors-take-if-you-dont-pay-your-credit-card-debt/)
+
+
+## How businesses raise financial capital
+
+
+<br>
+
+- How?
+
+<br>
+
+
+[[4]]{.note} Selling [stock]{.note}
+
+<br>
+
+
+::: {incremental}
+
+- Stock &Implies; [ownership]{.note}
+
+- Divided into [shares]{.note}
+
+:::
+
+
+
+## How businesses raise financial capital
+
+<br>
+
+
+With &uarr; [shareholders]{.note}, two questions:
+
+<br>
+
+
+::: {.incremental}
+
+1. [How and when]{.note} does the company [obtain money]{.note} from its sale of stock?
+
+2. What [rate of return]{.note} does the company [promise to pay]{.note} when it sells stock?
+
+:::
+
+
+# Next time: Households & financial markets {background-color="#62259D"}
