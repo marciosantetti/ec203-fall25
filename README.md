@@ -49,3 +49,8 @@
 <br>
 
 - [`005: Education & student debt`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/005-education-debt/005-education-student-debt.html)
+
+<br>
+
+- [`006: Financialization: Businesses`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/006-financialization/006-financial-markets-business.html)
+- [`006: Financialization: Households`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/006-financialization/006-financial-markets-households.html)
