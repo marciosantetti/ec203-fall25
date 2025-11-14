@@ -54,3 +54,5 @@
 
 - [`006: Financialization: Businesses`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/006-financialization/006-financial-markets-business.html)
 - [`006: Financialization: Households`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/006-financialization/006-financial-markets-households.html)
+- [`006: Financialization: Financial assets`](https://raw.githack.com/marciosantetti/ec203-fall25/refs/heads/main/lectures/006-financialization/006-stock-market.html)
+
