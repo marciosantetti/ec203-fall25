@@ -1,0 +1,29 @@
+---
+title: "Financialization (IV): Central Banks & interest rates"
+subtitle: "Principles of Economics // Fall 2025"
+institute: "marcio.santetti@emerson.edu"
+format: 
+  clean-revealjs:
+    self-contained: true
+html-math-method:
+  method: mathjax
+  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+author:
+  - name: Prof. Santetti
+---
+
+
+
+# Panics {background-color="#62259D"}
+  
+## Panics
+
+<br><br><br>
+
+. . .
+
+
+[[The bank panic of 1907]{.link}](https://www.federalreservehistory.org/essays/panic-of-1907)
+
+
+# Next time: Final week {background-color="#62259D"}

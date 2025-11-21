@@ -12,19 +12,140 @@ author:
   - name: Prof. Santetti
 ---
   
-#  {background-color="#62259D"}
+# Government & financial markets {background-color="#62259D"}
   
   
   
-## 
+## Government & financial markets
+
+
+<br><br>
+
+
+In addition to [households]{.note} and [businesses]{.note}, [federal governments]{.note} also participate in financial markets.
+
+
+## Government & financial markets
 
 
 <br>
 
+Recall the government [budget]{.note}:
 
+. . .
+
+
+<br><br>
+
+
+$$
+\text{Government Budget} = \text{Government Revenue} - \text{Government Spending}
+$$
+
+. . .
+
+<br><br>
+
+- If *Revenue > Spending* &Implies; Budget [surplus]{.note};
+
+- If *Revenue < Spending* &Implies; Budget [deficit.]{.note}
+
+
+
+## Government & financial markets
+
+
+<br>
+
+The [principle]{.note} is the same:
+
+. . .
+
+<br>
+
+
+- How to provide/finance public [infrastructure]{.note}, [services]{.note}, and [programs]{.note} with money the government [does not have]{.hi-red}?
+
+. . .
+
+
+
+<br><br>
+
+
+- [Borrow from society.]{.note}
+
+
+## Government & financial markets
+
+
+<br><br><br>
+
+
+But what about [taxes]{.note}?
+
+. . .
+
+<br>
+
+[[From the U.S. Treasury Department]{.link}](https://fiscaldata.treasury.gov/americas-finance-guide/)
+
+
+
+
+## Government & financial markets
+
+
+<br><br>
+
+
+Government (Treasury) [bonds]{.note} are the public [analog]{.note} of stocks.
+
+. . .
+
+
+<br>
+
+Some popular types:
+
+
+:::{.incremental}
+
+- Treasury [bills]{.note}: 4&mdash;52 weeks;
+
+- Treasury [notes]{.note}: 2, 3, 5, 7, and 10 years;
+
+- Treasury [bonds]{.note}: 20 and 30 years;
+
+- Treasury [securities]{.note}: 5, 10, and 30 years (adjusted for inflation).
+
+
+:::
+
+
+## Government & financial markets
+
+
+<br><br><br>
 
 [[A U.S. Treasury bond from 1976]{.link}](https://res.cloudinary.com/dzawgnnlr/image/upload/dnzczrwa47pu6kpq7d3m.jpg)
 
 
 
-# Next time: The stock market {background-color="#62259D"}
+## Government & financial markets
+
+<br>
+
+[Who buys U.S. bonds?]{.note}
+
+. . .
+
+
+<br><br><br>
+
+
+[[The Federal Government Has Borrowed Trillions. Who Owns All that Debt? (Peter G. Peterson Foundation)]{.link}](https://www.pgpf.org/article/the-federal-government-has-borrowed-trillions-but-who-owns-all-that-debt/)
+
+
+
+# Next time: The Fed & interest rates {background-color="#62259D"}
